@@ -1,0 +1,20 @@
+.gradient-back{
+    background-image: url("./back-image/portfolio-gradient.png");
+    background-size: 600% 600%;
+    text-shadow:none;
+    animation: gradient 5s ease infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 50% 0;
+    }
+    50% {
+        background-position: 120% 50%;
+    }
+    100% {
+        background-position: 30% 0;
+    }
+}
