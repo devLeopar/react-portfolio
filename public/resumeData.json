@@ -120,27 +120,39 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Tasarlagelsin.com.tr",
+        "category": "An e-commerce website where users can design and order online printing materials ",
+        "image": "tasarlagelsin-proje.jpg",
+        "url": "https://www.tasarlagelsin.com.tr/"
+      },
+      {
+        "title": "Promosyonbardak.com",
+        "category": "Wholesale promotional product website. ",
+        "image": "promosyonbardak-proje.jpg",
+        "url": "https://www.promosyonbardak.com/"
+      },
+      {
         "title": "Twitch skeleton clone",
         "category": "Google authentication,personal stream editing and more ",
-        "image": "",
+        "image": "github-card.png",
         "url": "https://github.com/devLeopar/ReactWorks/tree/master/streams"
       },
       {
         "title": "Ubuntu.com blog components designed by React",
         "category": "Front-end part ReactJs,Express running on backend",
-        "image": "",
+        "image": "github-card.png",
         "url": "https://github.com/devLeopar/Ubuntu-Blog-React"
       },
       {
         "title": "Wordpress Plugin for testing pure php specs",
         "category": "Pulling data from some boilerplate api to test it out with phpunittests(check Readme.md)",
-        "image": "",
+        "image": "github-card.png",
         "url": "https://github.com/devLeopar/udisplay"
       },
       {
         "title": "Wordpress plugin to pull data from Google Drive",
         "category": "Designed on XAMP stack",
-        "image": "",
+        "image": "github-card.png",
         "url": "https://github.com/devLeopar/gelecekyayinlar"
       }
     ]
@@ -148,7 +160,7 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Oktar is one of good developers that we've worked. He designed our website from scratch and made it faster",
+        "text": "Oktar is one of the best developers that we've worked. He designed the website from scratch with modern UI/UX styles ",
         "user": "Mrs.Çağla - Wpcrax"
       }
     ]
