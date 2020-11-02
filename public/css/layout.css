@@ -864,6 +864,9 @@ call-to-action .button {
    line-height: 24px;
    width: 65%;
 }
+#contact textarea{
+   resize:none;
+}
 #contact input:focus,
 #contact textarea:focus,
 #contact select:focus {

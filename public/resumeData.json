@@ -1,21 +1,21 @@
 {
   "main": {
     "name": "Oktar",
-    "occupation": "Full Stack Web Developer and Proud Husband @Wifey",
-    "description": "PHP fellow and SQL veteran now playing with some cool guys of JS, React,Redux and Node",
+    "occupation": "Full Stack Web Developer",
+    "description": "I had been designing algorithms for wordpress before I met React,Redux,Node.js.I've designed many cool stuff using those technologies with power of data structures for recent years.",
     "image": "IG_devleopar.png",
-    "bio": "My name is Oktar and I'm full stack web developer also working on some side cool stuff as well. ",
+    "bio": "My name is Oktar and I'm full stack web developer also working on some side cool stuff.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "oktarkara@gmail.com",
     "phone": "+90 532 6873759",
     "address": {
-      "street": "123 Fake Street",
+      "street": "123 J Street",
       "city": "İstanbul",
       "state": "TR",
       "zip": "ABC 123"
     },
     "website": "https://www.google.com",
-    "resumedownload": "https://www.google.com",
+    "resumedownload": "./resume/OktarKara_CV_compressed.pdf",
     "social": [
       {
         "name": "github",
@@ -56,6 +56,18 @@
     ],
     "skills": [
       {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "React-Redux",
+        "level": "75%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "65%"
+      },
+      {
         "name": "PHP",
         "level": "85%"
       },
@@ -68,16 +80,8 @@
         "level": "75%"
       },
       {
-        "name": "ReactJs",
-        "level": "65%"
-      },
-      {
-        "name": "React-Redux",
-        "level": "55%"
-      },
-      {
-        "name": "NodeJS",
-        "level": "45%"
+        "name": "MongoDB",
+        "level": "70%"
       },
       {
         "name": "CSS",
@@ -94,10 +98,6 @@
       {
         "name": "HTML5",
         "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "60%"
       },
       {
         "name": "Google Analytics",
@@ -119,6 +119,36 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Amazon App",
+        "category": "This is functional amazon clone with ReactJS. It includes some basic feature of amazon.com ",
+        "image": "amazon-clone.jpg",
+        "url": "https://challange-7c2c5.web.app/"
+      },
+      {
+        "title": "Wpcrax.com",
+        "category": "This website is refactored with React,Redux,Node.js from Wordpress.",
+        "image": "wpcrax-app.jpg",
+        "url": "https://www.wpcrax.com/"
+      },
+      {
+        "title": "Spotify App",
+        "category": "You can log in and use it to make the songs playing on one of your active Spotify devices.",
+        "image": "spotify-clone.jpg",
+        "url": "https://blissful-mccarthy-3f9666.netlify.app/"
+      },
+      {
+        "title": "Twitter App",
+        "category": "This is firebase hosted twitter clone web app.Post a tweet for me :)",
+        "image": "twitter-clone.png",
+        "url": "https://twitterred-cfa8b.firebaseapp.com/"
+      },
+      {
+        "title": "Covid Tracker App",
+        "category": "You can check total and daily Covid cases by country.",
+        "image": "Covid-ScreenShoot.jpg",
+        "url": "https://pensive-nobel-5d768e.netlify.app/"
+      },
       {
         "title": "Tasarlagelsin.com.tr",
         "category": "An e-commerce website where users can design and order online printing materials ",
